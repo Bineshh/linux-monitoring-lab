@@ -6,7 +6,7 @@ This repository documents the implementation of monitoring tool step by step and
 
 In production Linux environments, system issues such as high CPU usage, memory leaks, disk exhaustion, or service failures must be detected early to prevent outages.
 
-Monitoring helps to:
+Monitoring helps to
 - Identify resource bottlenecks
 - Detect abnormal system behavior
 - Troubleshoot incidents faster
