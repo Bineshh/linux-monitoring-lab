@@ -44,7 +44,7 @@ Linux Host
 Prometheus scrapes metrics from Node Exporter.
 Grafana queries Prometheus to display metrics.
 
-### Ports
+### Ports Used
 
 Node Exporter - 9100
 Prometheus - 9090
