@@ -1,4 +1,4 @@
-# linux-monitoring-lab using grafana and prometheus.
+# linux-monitoring-lab using grafana and prometheus
 
 This repository documents the implementation of monitoring tool step by step and troubleshooting process from a Linux administrator’s perspective.
 
